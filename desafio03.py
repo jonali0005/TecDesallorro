@@ -20,7 +20,7 @@ class Genetica:
     def imprimir_adn(self):
         print(self.comprimir())
 
-New_ADN = 'JDAJDDDAJDHAJL'
+New_ADN = 'jhjhggfftdsffddededededdrddeddededededhbnmm'
 NEW = Genetica(New_ADN)
 
 NEW.imprimir_adn()
