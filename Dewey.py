@@ -92,6 +92,7 @@ MENSAJES_RANDOM = [
     "Cada salto es un nuevo comienzo.",
     "Sigue adelante, pequeño humano.",
     "Eso brad",
+    "Hay que darnos de baja de la carrera o k?",
 
     # Agrega los tuyos aquí ↓
 ]
